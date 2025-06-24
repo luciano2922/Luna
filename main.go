@@ -1,5 +1,5 @@
 package main
- 
+
 import (
 	"context"
 	"embed"
@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 	"time"
-
+ 
 	"github.com/mitchellh/panicwrap"
 	"github.com/wailsapp/wails/v2"
 	"github.com/wailsapp/wails/v2/pkg/logger"
